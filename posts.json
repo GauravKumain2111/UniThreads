@@ -1,0 +1,337 @@
+[
+  {
+    "id": 25,
+    "content": "yhvshu",
+    "email": "shubhamvadhera007@gmail.com",
+    "imageUrl": null,
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 24,
+    "content": "gyusdvbhyudfbgyu",
+    "email": "shubhamvadhera007@gmail.com",
+    "imageUrl": null,
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 23,
+    "content": "bhai viva ki kitni tyari , reply in comment section",
+    "email": "gagan930@gmail.com",
+    "imageUrl": null,
+    "likes": 1,
+    "comments": [
+      {
+        "id": 1,
+        "content": "shoro krni h"
+      }
+    ],
+    "likedBy": [
+      "gauravluthra800@gmail.com"
+    ]
+  },
+  {
+    "id": 23,
+    "content": "hlo",
+    "email": "shubhamvadhera007@gmail.com",
+    "imageUrl": null,
+    "likes": 1,
+    "comments": [
+      {
+        "id": 1,
+        "content": "heyyyyyyyyyyyyy"
+      },
+      {
+        "id": 2,
+        "content": "Jzmzj"
+      }
+    ],
+    "likedBy": [
+      "gauravluthra800@gmail.com"
+    ]
+  },
+  {
+    "id": 22,
+    "content": "new post",
+    "email": "gauravluthra800@gmail.com",
+    "imageUrl": "/uploads/WhatsApp Image 2024-08-30 at 03.10.58_1cea3287.jpg",
+    "likes": 2,
+    "comments": [
+      {
+        "id": 1,
+        "content": "dkcndskl"
+      }
+    ],
+    "likedBy": [
+      "gokukumar12@gmail.com",
+      "gauravluthra800@gmail.com"
+    ]
+  },
+  {
+    "id": 20,
+    "content": "new",
+    "email": "gauravluthra800@gmail.com",
+    "imageUrl": null,
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 19,
+    "content": "trying",
+    "email": "krishna94shrivastava@gmail.com",
+    "imageUrl": "/uploads/unnamed (2).png",
+    "likes": 0,
+    "comments": [
+      {
+        "id": 1,
+        "content": "o bahi"
+      }
+    ],
+    "likedBy": []
+  },
+  {
+    "id": 18,
+    "content": "idk",
+    "email": "krishna94shrivastava@gmail.com",
+    "imageUrl": "/uploads/unnamed (2).png",
+    "likes": 1,
+    "comments": [],
+    "likedBy": [
+      "bababubu@gmail.com"
+    ]
+  },
+  {
+    "id": 17,
+    "content": "Guargav shjc ",
+    "email": "gauravluthra800@gmail.com",
+    "imageUrl": "/uploads/WhatsApp Image 2024-08-30 at 03.10.06_20a83551.jpg",
+    "likes": 2,
+    "comments": [
+      {
+        "id": 1,
+        "content": "dc,m"
+      },
+      {
+        "id": 2,
+        "content": "hbkjgiu"
+      },
+      {
+        "id": 3,
+        "content": "just testing"
+      },
+      {
+        "id": 4,
+        "content": "nkwn"
+      }
+    ],
+    "likedBy": [
+      "kumain11@gmail.com",
+      "gauravluthra800@gmail.com"
+    ]
+  },
+  {
+    "id": 16,
+    "content": "kpnioni",
+    "email": "kumain11@gmail.com",
+    "imageUrl": null,
+    "likes": 2,
+    "comments": [
+      {
+        "id": 1,
+        "content": "dklbknl"
+      }
+    ],
+    "likedBy": [
+      "krishna94shrivastava@gmail.com",
+      "gauravl@gmail.com"
+    ]
+  },
+  {
+    "id": 15,
+    "content": "fvc sfkbklvgf",
+    "email": "kumain11@gmail.com",
+    "imageUrl": null,
+    "likes": 1,
+    "comments": [],
+    "likedBy": [
+      "krishna94shrivastava@gmail.com"
+    ]
+  },
+  {
+    "id": 14,
+    "content": "klv l",
+    "email": "kumain11@gmail.com",
+    "imageUrl": null,
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 13,
+    "content": "new post",
+    "email": "kumain11@gmail.com",
+    "imageUrl": "/uploads/krishna.png",
+    "likes": 2,
+    "comments": [
+      {
+        "id": 1,
+        "content": "jkevjk"
+      },
+      {
+        "id": 2,
+        "content": "jkekj"
+      },
+      {
+        "id": 3,
+        "content": "jai shree krishna"
+      }
+    ],
+    "likedBy": [
+      "kumain11@gmail.com",
+      "krishna94shrivastava@gmail.com"
+    ]
+  },
+  {
+    "id": 12,
+    "content": "mklnk/l",
+    "email": "kumain11@gmail.com",
+    "imageUrl": null,
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 11,
+    "content": "klkl",
+    "email": "kumain11@gmail.com",
+    "imageUrl": null,
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 10,
+    "content": "new",
+    "email": "gauravluthra800@gmail.com",
+    "imageUrl": "/uploads/krishna.png",
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 9,
+    "content": "jkbjk",
+    "email": "kumain11@gmail.com",
+    "imageUrl": null,
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "content": "jkkbejkd",
+    "email": "kumain11@gmail.com",
+    "imageUrl": null,
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 7,
+    "content": "new",
+    "email": "kumain11@gmail.com",
+    "imageUrl": "/uploads/krishna.png",
+    "likes": 0,
+    "comments": [],
+    "likedBy": []
+  },
+  {
+    "id": 6,
+    "content": "vvnj m",
+    "email": "kumain11@gmail.com",
+    "imageUrl": "/uploads/krishna.png",
+    "likes": 1,
+    "comments": [],
+    "likedBy": [
+      "kumain11@gmail.com"
+    ]
+  },
+  {
+    "id": 5,
+    "content": "jvhjs",
+    "email": "gopal01@gmail.com",
+    "imageUrl": "/uploads/Screenshot 2023-03-10 102205.png",
+    "likes": 5,
+    "comments": [],
+    "likedBy": [
+      "gopal01@gmail.com",
+      "gagan1@gmail.com",
+      "gauravluthra800@gmail.com",
+      "kumain11@gmail.com",
+      "gokukumar12@gmail.com"
+    ]
+  },
+  {
+    "id": 4,
+    "content": "jkbjhcdb",
+    "email": "gauravluthra800@gmail.com",
+    "imageUrl": "/uploads/how-to-download-har-ghar-tiranga-certificate.jpg",
+    "likes": 4,
+    "comments": [
+      {
+        "id": 1,
+        "content": "fdgbvbg"
+      }
+    ],
+    "likedBy": [
+      "gopal01@gmail.com",
+      "gagan1@gmail.com",
+      "gauravluthra800@gmail.com",
+      "kumain11@gmail.com"
+    ]
+  },
+  {
+    "id": 3,
+    "content": "",
+    "email": "gauravluthra800@gmail.com",
+    "imageUrl": "/uploads/WhatsApp Image 2024-08-30 at 03.09.29_cff5c157.jpg",
+    "likes": 4,
+    "comments": [],
+    "likedBy": [
+      "gopal01@gmail.com",
+      "gagan1@gmail.com",
+      "gauravluthra800@gmail.com",
+      "kumain11@gmail.com"
+    ]
+  },
+  {
+    "id": 2,
+    "content": "Stake",
+    "email": "gagan1@gmail.com",
+    "imageUrl": "/uploads/hq720.jpg",
+    "likes": 3,
+    "comments": [],
+    "likedBy": [
+      "gopal01@gmail.com",
+      "gagan1@gmail.com",
+      "gauravluthra800@gmail.com"
+    ]
+  },
+  {
+    "id": 1,
+    "content": "4G Satte Wale",
+    "email": "gagan1@gmail.com",
+    "imageUrl": "/uploads/WhatsApp Image 2024-08-30 at 03.10.58_1cea3287.jpg",
+    "likes": 3,
+    "comments": [],
+    "likedBy": [
+      "gagan1@gmail.com",
+      "gopal01@gmail.com",
+      "kumain11@gmail.com"
+    ]
+  }
+]
